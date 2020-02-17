@@ -3,3 +3,4 @@ def sumFunc(a, b):
 
 
 print(sumFunc(2, 4))
+print(sumFunc(8, 4))
