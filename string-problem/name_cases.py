@@ -1,4 +1,4 @@
-personName = input("Enter your name: ")
+l()personName = input("Enter your name: ")
 
 print(personName.lower())
 print(personName.upper())
